@@ -1,2 +1,2 @@
 # HSAlbSig
-Student projects
+Student projects / classes
